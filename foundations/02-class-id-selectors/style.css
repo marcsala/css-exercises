@@ -1,6 +1,11 @@
-.odd-numbers {
+.odd-numbers,
+.three {
     background-color: rgb(252,148,150);
     font-family: "Verdana", "DejaVu Sans", sans-serif;  
+}
+
+.three {
+    font-size: 24px;
 }
 
 #second {
